@@ -6,7 +6,7 @@
 
 - 📚 I’m currently learning **Python, Pandas, PySpark**
 
-- 👨‍💻 All of my projects are available at [https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592](https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
+- 👨‍💻 For a comprehensive overview of my work and an end-to-end approach to my projects, please click here: [https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592](https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
 
 - 💬 Ask me about **Excel, SQL, Power BI, and Microsoft Fabric**
 
