@@ -1,18 +1,36 @@
-<h1 align="center">Hi 👋, I'm Nilay</h1>
-<h3 align="center">A passionate Business Intelligence Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+# Nilay Mukhopadhyay - Data Analyst
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilaymukhopadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="nilaymukhopadhyay" /> </p>
+## Introduction
+Hi there! 👋 I'm Nilay Mukhopadhyay, as a Data Analyst/Business Intelligence (BI) Analyst, I specialize in creating interactive dashboards, automating reports, and optimizing project efficiency. I leverage tools such as Power BI, SQL, Excel, Amazon Redshift, Azure Data Factory (ADF), and Microsoft Fabric. My role involves supporting data-driven decision-making and enhancing business outcomes for various departments, including Audit, HR, and Management.
 
-- I am a business intelligence analyst who utilizes GitHub to store both my datasets and codes exclusively for the projects I work on. I employ multiple tools for each project and create concise blogs that exclude codes to minimize noise. To gain insight into my end-to-end approach and access links to the datasets and codes for specific projects, please visit my portfolio website.  
-  👨‍💻: [https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592](https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
+With a BA (Bachelor of Arts) degree, I have a strong foundation in analytical thinking, problem-solving, and communication. I am passionate about learning new technologies and tools to enhance my data visualization and analysis capabilities. I am dedicated to collaborating effectively with cross-functional teams and delivering high-quality results that meet the needs and expectations of stakeholders.
 
-- 💬 Ask me about **Excel, SQL, Power BI, and Microsoft Fabric**
+## Learning Journey
+🌱 I’m currently learning/experimenting:
 
-<h3 align="left">Connect with me:</h3>
+- ETL/ELT using Python to gain proficiency in PySpark for Azure Databricks/Notebook within the Microsoft Fabric environment.
 
-📧 **mukhopadhyaynilay@gmail.com**
+## My Projects
+📊 **My Projects: **
 
-<p align="left">
-<a href="https://linkedin.com/in/nilay-mukhopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilay-mukhopadhyay" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mukhopadhyaynil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/mukhopadhyaynil1" height="30" width="40" /></a>
+1. ** Ski Pass Affordability in Europe and Asia **
+   - Tools Used: Power BI, ChatGPT, Excel, and PPT.
+   - The objective was to help users find their perfect winter getaway considering factors like budget, location, and timing, presented through an Interactive Exploratory Dashboard. Notably, the budget-friendly ski pass prices in Europe and Asia caught my attention, prompting a more in-depth analysis.
+
+## Ask me about...
+💬 Anything related to SQL, Power BI, and Microsoft Fabric.
+
+## How to reach me
+📫 ** Email: ** mukhopadhyaynilay@gmail.com
+
+📫 ** LinkedIn: ** [Nilay](https://www.linkedin.com/in/nilay-mukhopadhyay/)
+
+## Tech Stack
+🛠 **My tech stack: **
+- Power BI
+- SQL (TSQL and PostgreSQL)
+- Azure Data Factory (ADF)
+- Amazon Redshift
+- Dataflow Gen2
+- Microsoft Fabric
+- Excel
