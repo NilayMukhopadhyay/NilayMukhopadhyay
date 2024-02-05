@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilaymukhopadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="nilaymukhopadhyay" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 📚 I’m currently learning **Python, Pandas, PySpark**
 
 - 👨‍💻 All of my projects are available at [https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592](https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
 
 - 💬 Ask me about **Excel, SQL, Power BI, and Microsoft Fabric**
 
-- 📫 How to reach me **mukhopadhyaynilay@gmail.com**
+- 📧 How to reach me **mukhopadhyaynilay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
