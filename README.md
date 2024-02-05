@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilaymukhopadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="nilaymukhopadhyay" /> </p>
 
-- I am a business intelligence analyst who utilizes GitHub to store both my datasets and codes exclusively for the projects I work on. I employ multiple tools for each project and create concise blogs that exclude codes to minimize noise. To gain insight into my end-to-end approach and access links to the datasets and codes for specific projects, please visit my portfolio website.
-👨‍💻: [https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592](https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
+- I am a business intelligence analyst who utilizes GitHub to store both my datasets and codes exclusively for the projects I work on. I employ multiple tools for each project and create concise blogs that exclude codes to minimize noise. To gain insight into my end-to-end approach and access links to the datasets and codes for specific projects, please visit my portfolio website.  
+  👨‍💻: [https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592](https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
 
 - 💬 Ask me about **Excel, SQL, Power BI, and Microsoft Fabric**
 
