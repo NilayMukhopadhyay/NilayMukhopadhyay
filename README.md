@@ -8,14 +8,14 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592](https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
 
-- 💬 Ask me about **Excel, SQL, Power BI, and Microsoft Fabric**
+- 💬 Ask me about **Excel, SQL, Power BI, Microsoft Fabric**
 
 - 📫 How to reach me **mukhopadhyaynilay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nilay-mukhopadhyay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilay-mukhopadhyay/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mukhopadhyaynil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mukhopadhyaynil1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nilay-mukhopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilay-mukhopadhyay" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@mukhopadhyaynil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mukhopadhyaynil1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
