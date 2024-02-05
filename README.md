@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592](https://www.mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
 
-- 💬 Ask me about **Excel, SQL, Power BI, Microsoft Fabric**
+- 💬 Ask me about **Excel, SQL, Power BI, and Microsoft Fabric**
 
 - 📫 How to reach me **mukhopadhyaynilay@gmail.com**
 
