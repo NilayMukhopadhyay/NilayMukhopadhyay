@@ -14,7 +14,7 @@ With a BA (Bachelor of Arts) degree, I have a strong foundation in analytical th
 
 
 1. [**Ski Pass Affordability in Europe and Asia**](https://mavenanalytics.io/project/5083)
-   - Tools Used: Power BI, ChatGPT, Excel, and PPT.
+   - **Tools Used:** Power BI, ChatGPT, Excel, and PPT.
    - The objective was to help users find their perfect winter getaway considering factors like budget, location, and timing, presented through an Interactive Exploratory Dashboard. Notably, the budget-friendly ski pass prices in Europe and Asia caught my attention, prompting a more in-depth analysis.
    
 ## Ask me about...
