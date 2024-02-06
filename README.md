@@ -18,7 +18,7 @@ With a BA (Bachelor of Arts) degree, I have a strong foundation in analytical th
    - The objective was to help users find their perfect winter getaway considering factors like budget, location, and timing, presented through an Interactive Exploratory Dashboard. Notably, the budget-friendly ski pass prices in Europe and Asia caught my attention, prompting a more in-depth analysis.
    
 ## Ask me about...
-💬 Anything related to SQL, Power BI, and Microsoft Fabric.
+💬 Anything related to **SQL**, **Power BI**, and **Microsoft Fabric.**
 
 ## How to reach me
 📫 **Email:** mukhopadhyaynilay@gmail.com
