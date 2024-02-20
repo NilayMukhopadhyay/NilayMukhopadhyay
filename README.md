@@ -12,7 +12,7 @@ With a BA (Bachelor of Arts) degree, I have a strong foundation in analytical th
 
 ## 📊 My Top 3 Projects
 1. [**My Fitness Tracker**](https://mavenanalytics.io/project/12232)
-   - **Tools Used:** Power BI, Google Sheets, Microsoft Fabric, and SQL.
+   - **Tools Used:** [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiNDZhNmQ3NDEtNWNlZS00OTg5LTlmZTQtZmFiZmRjNzg0ZjY2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9), [**Google Sheets**](https://docs.google.com/spreadsheets/d/1Q31VzzQqrFvSAnjwB6HWgU6X2ovlu5vZ9-ClpZQD9q4/edit?pli=1#gid=0), Microsoft Fabric, and [**SQL.**](https://github.com/NilayMukhopadhyay/Fitness-Tracker)
    - I started walking to get fit, but consistency was a problem. Then, a friend suggested using a Power BI dashboard with my walking data from Samsung Health. It made tracking my progress fun and helped me stay on track. This project was born out of my personal fitness goals. I hope you enjoy browsing it as much as I enjoyed making it.
 
 
