@@ -17,11 +17,11 @@ With a BA (Bachelor of Arts) degree, I have a strong foundation in analytical th
 
 
 2. [**Ski Pass Affordability in Europe and Asia**](https://mavenanalytics.io/project/5083)
-   - **Tools Used:** Power BI, ChatGPT, Excel, and PPT.
+   - **Tools Used:** [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZmQyZDc5Y2QtOWFkYS00NjI3LWEyYmMtNzNjNzY4NmFjODZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9), ChatGPT, Excel, and PPT.
    - The objective was to help users find their perfect winter getaway considering factors like budget, location, and timing, presented through an Interactive Exploratory Dashboard. Notably, the budget-friendly ski pass prices in Europe and Asia caught my attention, prompting a more in-depth analysis.
 
 3. [**Customer Segmentation Analysis**](https://mavenanalytics.io/project/5084)
-   - **Tools Used:** [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZmQyZDc5Y2QtOWFkYS00NjI3LWEyYmMtNzNjNzY4NmFjODZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) and SQL.
+   - **Tools Used:** [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiYjJiNjA1M2MtMWNhZi00NGFlLThjZDgtODBiNWU4NDZiYjJhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) and SQL.
    - The primary objective of this study is to reveal meaningful patterns using the RFM methodology and to predict potential factors that may influence customer churn in the future.
 
 [**My Portfolio**](https://mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
