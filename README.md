@@ -10,18 +10,15 @@ I specialize in turning complex datasets into actionable insights through intera
 
 1. [**Azure Data Lakehouse Architecture (Bronze–Silver–Gold) for RFM Analysis in Power BI**](https://mavenshowcase.com/project/5084)
    - **Tools and Services**
-   - 1. Azure Data Factory (ADF) – Orchestrates ingestion pipelines from Blob Storage to ADLS Gen2.
-   - 2. Azure Data Lake Storage Gen2 (ADLS Gen2) – Primary storage for Bronze, Silver, and Gold datasets.
-   - 3. Azure Databricks (PySpark + SparkSQL) – Data exploration, cleansing, enrichment, and dimensional modeling.
-   - 4. Power BI – Consumes curated Gold Layer data for RFM segmentation and churn analysis dashboards.
-
+      1. Azure Data Factory (ADF) – Orchestrates ingestion pipelines from Blob Storage to ADLS Gen2.
+      2. Azure Data Lake Storage Gen2 (ADLS Gen2) – Primary storage for Bronze, Silver, and Gold datasets.
+      3. Azure Databricks (PySpark + SparkSQL) – Data exploration, cleansing, enrichment, and dimensional modeling.
+      4. Power BI – Consumes curated Gold Layer data for RFM segmentation and churn analysis dashboards.
 
    - **High-Level Overview**
-The architecture enables scalable, automated customer segmentation using the RFM methodology, following the Medallion Architecture in ADLS Gen2.
-
-It ensures seamless ingestion, transformation, and reporting with high data quality and minimal manual effort.
-
-Key insights reveal that High Churn Risk and At Risk customers receive fewer discounts, and profit margins peak for purchase frequencies between 40–70 — turning the pipeline into a decision-making tool, not just a data workflow.
+      - The architecture enables scalable, automated customer segmentation using the RFM methodology, following the Medallion Architecture in ADLS Gen2.
+      - It ensures seamless ingestion, transformation, and reporting with high data quality and minimal manual effort.
+      - Key insights reveal that High Churn Risk and At Risk customers receive fewer discounts, and profit margins peak for purchase frequencies between 40–70 — turning the pipeline into a decision-making tool, not just a data workflow.
 
 
 2. [**My Fitness Tracker (Power BI & Fabric)**](https://mavenshowcase.com/project/12232)
