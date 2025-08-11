@@ -22,32 +22,40 @@ I specialize in turning complex datasets into actionable insights through intera
 
 
 2. [**My Fitness Tracker (Power BI & Fabric)**](https://mavenshowcase.com/project/12232)
-   - **Tools Used:** [**Power BI & Microsoft Fabric**](https://app.powerbi.com/view?r=eyJrIjoiNDZhNmQ3NDEtNWNlZS00OTg5LTlmZTQtZmFiZmRjNzg0ZjY2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9), [**Google Sheets**](https://docs.google.com/spreadsheets/d/1Q31VzzQqrFvSAnjwB6HWgU6X2ovlu5vZ9-ClpZQD9q4/edit?pli=1#gid=0), and [**SQL.**](https://github.com/NilayMukhopadhyay/Fitness-Tracker)
-   - I started walking to get fit, but consistency was a problem. Then, a friend suggested using a Power BI dashboard with my walking data from Samsung Health. It made tracking my progress fun and helped me stay on track. This project was born out of my personal fitness goals. I hope you enjoy browsing it as much as I enjoyed making it.
+   - **Tools and Services**
+      - Microsoft Fabric
+      - Power BI
+      - Google Sheet
+
+   - **High-Level Overview**
+      - I started walking to get fit, but consistency was a problem. Then, a friend suggested using a Power BI dashboard with my walking data from Samsung Health. It made tracking my progress fun and helped me stay on track.
+      - This project was born out of my personal fitness goals. I hope you enjoy browsing it as much as I enjoyed making it.
+
+2. [**Ski Pass Affordability in Europe and Asia**](https://mavenshowcase.com/project/5083)
+   - **Tools and Services**
+      - Power BI
+      - Excel
+      - ChatGPT
+      - Power Point (PPT)
+
+   - **High-Level Overview**
+      - The dataset comprises 499 distinct ski resorts and serves as a valuable resource for individuals seeking to identify their ideal winter vacation destination.
+      - It is presented through an Interactive Exploratory Dashboard, acknowledging that determining an appropriate location for skiing is influenced by various subjective factors such as budget, location, and timing, which may vary among users.
 
 
-2. [**Ski Pass Affordability in Europe and Asia**](https://mavenanalytics.io/project/5083)
-   - **Tools Used:** [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZmQyZDc5Y2QtOWFkYS00NjI3LWEyYmMtNzNjNzY4NmFjODZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9), ChatGPT, Excel, and PPT.
-   - The objective was to help users find their perfect winter getaway considering factors like budget, location, and timing, presented through an Interactive Exploratory Dashboard. Notably, the budget-friendly ski pass prices in Europe and Asia caught my attention, prompting a more in-depth analysis.
-
-
-
-[**My Portfolio**](https://mavenanalytics.io/profile/Nilay-Mukhopadhyay/65599592)
+[**My Portfolio**](https://mavenshowcase.com/profile/b89183b0-9051-7001-1468-16e75a02881a)
    
 ## Ask me about...
-💬 Anything related to **SQL**, **Power BI**, and **Microsoft Fabric.**
+💬 Anything related to **SQL**, **Power BI**, **Microsoft Azure**, **Databricks**, and **Microsoft Fabric.**
 
 ## How to reach me
-📫 **Email:** mukhopadhyaynilay@gmail.com
 
 📫 **LinkedIn:** [Nilay](https://www.linkedin.com/in/nilay-mukhopadhyay/)
 
 ## Tech Stack
 🛠 **My tech stack:**
 - Power BI
-- SQL (TSQL and PostgreSQL)
-- Azure Data Factory (ADF)
-- Amazon Redshift
-- Dataflow Gen2
+- Azure Services
 - Microsoft Fabric
-- Excel
+- SQL (TSQL and PostgreSQL)
+
