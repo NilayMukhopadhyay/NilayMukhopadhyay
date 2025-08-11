@@ -8,7 +8,7 @@ I specialize in turning complex datasets into actionable insights through intera
 
 ## 📊 My Top 3 Projects
 
-1. [**Azure Data Lakehouse Architecture (Bronze–Silver–Gold) for RFM Analysis in Power BI**] (https://mavenshowcase.com/project/5084)
+1. [**Azure Data Lakehouse Architecture (Bronze–Silver–Gold) for RFM Analysis in Power BI**](https://mavenshowcase.com/project/5084)
    - **Tools and Services**
    - 1. Azure Data Factory (ADF) – Orchestrates ingestion pipelines from Blob Storage to ADLS Gen2.
    - 2. Azure Data Lake Storage Gen2 (ADLS Gen2) – Primary storage for Bronze, Silver, and Gold datasets.
