@@ -1,9 +1,9 @@
 # Nilay Mukhopadhyay - Data Analyst
 
 ## Introduction
-With a Bachelor of Arts background, I bring a unique blend of analytical thinking and creativity to data solutions. Over the past 4+ years, I’ve grown into a results-driven Data Analytics Engineer, designing scalable BI solutions and automating analytics workflows using Power BI, SQL, Excel, and Microsoft Fabric. 
+Results-driven Data Analytics Engineer with 4+ years of experience designing scalable BI solutions and automating analytics workflows using Power BI, SQL, Azure Databricks, Microsoft Fabric, and Excel. Skilled in transforming complex datasets into actionable insights through interactive dashboards, semantic models, dataflows, and data pipelines. 
 
-I specialize in turning complex datasets into actionable insights through interactive dashboards, semantic models, and dataflows. My work has delivered global, cross-functional reporting solutions and driven over $150,000 in annual operational savings through data-driven efficiency and automation.
+Demonstrated success in delivering global, cross-functional projects, driving over $150,000 in annual operational savings through data-driven efficiency and reporting automation.
 
 
 ## 📊 My Top 3 Projects
