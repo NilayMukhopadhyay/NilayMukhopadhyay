@@ -55,7 +55,9 @@ I specialize in turning complex datasets into actionable insights through intera
 ## Tech Stack
 🛠 **My tech stack:**
 - Power BI
-- Azure Services
 - Microsoft Fabric
 - SQL (TSQL and PostgreSQL)
+- Python (PySpark)
+- Databricks
+- Azure Services
 
