@@ -8,7 +8,7 @@ Demonstrated success in delivering global, cross-functional projects, driving ov
 
 ## 📊 My Top 3 Projects
 
-1. [**Azure Data Lakehouse Architecture (Bronze–Silver–Gold) for RFM Analysis in Power BI**](https://mavenshowcase.com/project/5084)
+1. [**Azure Data Lakehouse Architecture (Bronze–Silver–Gold) for RFM Analysis in Power BI**](https://www.notion.so/Project-Summary-2feb9932e17f80aca95eeccfc8e810a7)
    - **Tools and Services**
       - Azure Data Factory (ADF) – Orchestrates ingestion pipelines from Blob Storage to ADLS Gen2.
       - Azure Data Lake Storage Gen2 (ADLS Gen2) – Primary storage for Bronze, Silver, and Gold datasets.
@@ -21,7 +21,7 @@ Demonstrated success in delivering global, cross-functional projects, driving ov
       - Key insights reveal that High Churn Risk and At Risk customers receive fewer discounts, and profit margins peak for purchase frequencies between 40–70 — turning the pipeline into a decision-making tool, not just a data workflow.
 
 
-2. [**My Fitness Tracker (Power BI & Fabric)**](https://mavenshowcase.com/project/12232)
+2. [**My Fitness Tracker (Power BI & Fabric)**](https://www.notion.so/Project-Summary-2feb9932e17f8011a51aebe0c06f8bf9)
    - **Tools and Services**
       - Microsoft Fabric
       - Power BI
