@@ -6,7 +6,7 @@ Results-driven Data Analytics Engineer with 4+ years of experience designing sca
 Demonstrated success in delivering global, cross-functional projects, driving over $150,000 in annual operational savings through data-driven efficiency and reporting automation.
 
 
-## 📊 My Top 3 Projects
+## 📊 My Top Projects
 
 1. [**Azure Data Lakehouse Architecture (Bronze–Silver–Gold) for RFM Analysis in Power BI**](https://www.notion.so/Project-Summary-2feb9932e17f80aca95eeccfc8e810a7)
    - **Tools and Services**
