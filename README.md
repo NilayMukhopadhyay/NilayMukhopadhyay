@@ -43,7 +43,7 @@ Demonstrated success in delivering global, cross-functional projects, driving ov
       - It is presented through an Interactive Exploratory Dashboard, acknowledging that determining an appropriate location for skiing is influenced by various subjective factors such as budget, location, and timing, which may vary among users.
 
 
-[**My Portfolio**](https://mavenshowcase.com/profile/b89183b0-9051-7001-1468-16e75a02881a)
+[**My Portfolio**](https://www.notion.so/Nilay-Mukhopadhyay-Analytics-Engineer-Portfolio-2fdb9932e17f80a2af26e9bd1a8d5fd3)
    
 ## Ask me about...
 💬 Anything related to **SQL**, **Power BI**, **Microsoft Azure**, **Databricks**, and **Microsoft Fabric.**
